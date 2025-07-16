@@ -10,10 +10,12 @@ RandomForestClassifier
 DecisionTreeClassifier
 
 •CONCLUSION:
-
 -**Exploration**: Key features impacting glucose levels include BMI, blood pressure, and age.
+
 -**Modeling**: Several models were trained and tested. Random Forest performed the best.
+
 -**Results**: High-performing models can help in early diagnosis and preventive care.
+
 -**Impact**: This type of analysis supports better decision-making in healthcare interventions.
 
 
